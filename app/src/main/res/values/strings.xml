@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="click_to_speak">Click to start speaking</string>
+</resources>
